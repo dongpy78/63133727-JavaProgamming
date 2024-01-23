@@ -1,5 +1,5 @@
 ## Lập Trình Java
- <div align="center" width="500px">
+ <div align="center" width="100%" height="1000px>
 
 ![CodingKiraGIF](https://github.com/dongpy78/63133727-JavaProgamming/assets/101465469/d0a1b162-038c-46b5-a666-f2d2b9329d3c)
 	
