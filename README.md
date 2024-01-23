@@ -1,4 +1,4 @@
-## Lập Trình JaVa
+## Lập Trình Java
 
 ### Những Kiến Thức Đạt Được Khi Học Lập Trình Java
 👩‍💻 Cú Pháp Cơ Bản...
