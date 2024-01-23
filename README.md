@@ -1,4 +1,5 @@
 ## Lập Trình Java
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ### Những Kiến Thức Đạt Được Khi Học Lập Trình Java
 👩‍💻 Cú Pháp Cơ Bản...
