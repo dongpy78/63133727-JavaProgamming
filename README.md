@@ -1,5 +1,5 @@
 ## Lập Trình Java
-<img src="[https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://www.qulix.com/wp-content/uploads/2021/01/cat.gif)" alt="App Screenshot" style="display: block; margin: auto;" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.camping-bolter-ufer.de%2Fuebernachten%2FextLink%2Fhttp%3A%2Fbe-bright.click%2Fjava-logo-gif.html&psig=AOvVaw1_3IfjFKluq5E_kmlAqEWt&ust=1706068638475000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIirnY7P8oMDFQAAAAAdAAAAABAP" alt="App Screenshot" style="display: block; margin: auto;" />
 
 
 ### Những Kiến Thức Đạt Được Khi Học Lập Trình Java
