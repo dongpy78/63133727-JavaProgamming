@@ -2,7 +2,7 @@
 	 
 ___
  <span width="250">
-  ![Alt Text]([https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif]())
+  ![Alt Text]([](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif))
 </span>
 
 </div>
