@@ -1,7 +1,8 @@
 ## Lập Trình Java
  <div align="center">
 
- ![CatLaptopGIF](https://github.com/dongpy78/63133727-JavaProgamming/assets/101465469/19f8612e-ae10-47c1-ad0f-1e939c3a3c92)
+![CodingKiraGIF](https://github.com/dongpy78/63133727-JavaProgamming/assets/101465469/d0a1b162-038c-46b5-a666-f2d2b9329d3c)
+
 
 	 
  ![]()
