@@ -1,6 +1,7 @@
 ## Lập Trình Java
 
-<img src="[https://www.qulix.com/wp-content/uploads/2021/01/cat.gif](https://www.qulix.com/wp-content/uploads/2021/01/cat.gif)" alt="App Screenshot" style="display: block; margin: auto;" />
+![Tên thay thế](https://www.qulix.com/wp-content/uploads/2021/01/cat.gif)
+
 
 
 ### Những Kiến Thức Đạt Được Khi Học Lập Trình Java
