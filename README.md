@@ -1,7 +1,9 @@
 ## Lập Trình Java
 
 <div align="center">
+  
 ![CodingKiraGIF](https://github.com/dongpy78/63133727-JavaProgamming/assets/101465469/d0a1b162-038c-46b5-a666-f2d2b9329d3c)
+
 </div>
 
 ### Những Kiến Thức Đạt Được Khi Học Lập Trình Java
