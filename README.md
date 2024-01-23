@@ -1,4 +1,4 @@
-## Lập Trình Java
+## 🍵 Lập Trình Java Căn Bản 🔥
 
 <div align="center">
   
@@ -6,7 +6,7 @@
 
 </div>
 
-### Những Kiến Thức Đạt Được Khi Học Lập Trình Java
+### 📚 Những Kiến Thức Đạt Được Khi Học Lập Trình Java 😙
 👩‍💻 Cú Pháp Cơ Bản...
 ```bash
   Khai báo biến và kiểu dữ liệu.
