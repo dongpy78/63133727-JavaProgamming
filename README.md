@@ -1,12 +1,14 @@
 ## Lập Trình Java
  <div align="center">
 	 
- ![Typing SVG]()
+ ![]()
  <span width="250">
-  ![Alt Text](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+  ![Alt Text](https://www.qulix.com/wp-content/uploads/2021/01/cat.gif)
 </span>
 
 </div>
+
+
 
 
 
