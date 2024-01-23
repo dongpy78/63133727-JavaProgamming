@@ -1,15 +1,8 @@
 ## Lập Trình Java
- <div align="center">
+ <div align="center" width="500px">
 
 ![CodingKiraGIF](https://github.com/dongpy78/63133727-JavaProgamming/assets/101465469/d0a1b162-038c-46b5-a666-f2d2b9329d3c)
-
-
-	 
- ![]()
- <span width="500">
-  ![Alt Text](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-</span>
-![Uploading CatLaptopGIF (2).gif…]()
+	
 
 </div>
 
