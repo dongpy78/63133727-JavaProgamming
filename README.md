@@ -1,6 +1,8 @@
 ## Lập Trình Java
 
-![Tên thay thế](https://www.qulix.com/wp-content/uploads/2021/01/cat.gif)
+ <span width="250">
+  ![Alt Text](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+</span>
 
 
 
