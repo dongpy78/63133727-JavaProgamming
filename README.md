@@ -1,10 +1,14 @@
 ## Lập Trình Java
  <div align="center">
+
+ ![CatLaptopGIF](https://github.com/dongpy78/63133727-JavaProgamming/assets/101465469/19f8612e-ae10-47c1-ad0f-1e939c3a3c92)
+
 	 
  ![]()
  <span width="500">
   ![Alt Text](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 </span>
+![Uploading CatLaptopGIF (2).gif…]()
 
 </div>
 
