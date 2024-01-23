@@ -1,8 +1,10 @@
  <div align="center">
 	 
 ___
+
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=2500&color=F86A7C&background=none&center=true&vCenter=true&multiline=true&repeat=true&width=590&height=200&lines=%E2%9C%8C%EF%B8%8F+Hi+there+%F0%9F%92%A6;+%F0%9F%92%97+I'm+Thanh+Ngan%2C+from+VietNam+%F0%9F%92%95;%E2%9A%A1)
  <span width="250">
-  ![Alt Text]([](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif))
+  ![Alt Text]([https://pa1.narvii.com/6533/beeeec6ec4e85a1a9a1ca46a0717bcf208007f55_hq.gif](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif))
 </span>
 
 </div>
