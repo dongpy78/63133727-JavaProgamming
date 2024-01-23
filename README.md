@@ -1,5 +1,6 @@
 ## Lập Trình Java
-([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://www.qulix.com/wp-content/uploads/2021/01/cat.gif))
+<img src="https://via.placeholder.com/468x300?text=App+Screenshot+Here" alt="App Screenshot" style="display: block; margin: auto;" />
+
 
 ### Những Kiến Thức Đạt Được Khi Học Lập Trình Java
 👩‍💻 Cú Pháp Cơ Bản...
