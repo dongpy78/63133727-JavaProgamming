@@ -1,7 +1,7 @@
  <div align="center">
 	 
 ___
-
+![Typing SVG]()
  
  <span width="250">
   ![Alt Text](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
