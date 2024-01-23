@@ -2,6 +2,9 @@
 
 ### Những Kiến Thức Căn Bản Lập Trình Java
 👩‍💻 Cú Pháp Cơ Bản...
+```bash
+  npm run start
+```
 
 🧠 Hàm Phương Thức...
 
